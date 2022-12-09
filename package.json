@@ -1,7 +1,7 @@
 {
   "author": "KMUTT",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "frappe-gantt": "^0.2.0",
     "imask": "^4.0.0",
     "intl": "^1.2.5",
